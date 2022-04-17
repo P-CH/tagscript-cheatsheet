@@ -4,6 +4,7 @@ Conditional Statements are used when an action is only supposed to happen when a
 
 #### General Structure of a Conditional Block
 ``{type(boolean):then|else}``
+
 Unfortunately, you cannot just supply "true" or "false" as boolean, it always needs to be a comparison "made on the fly".
 
 ## If
