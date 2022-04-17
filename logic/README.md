@@ -12,7 +12,7 @@ true == true            --> returns true
 0 == 2                  --> returns false
 "this" == "that"        --> returns false
 ```
-<br>
+  
 ## Not Equal
 ``!=``
 ```diff
@@ -23,7 +23,7 @@ true != false           --> returns true
 0 != 0                  --> returns false
 "this" != "this"        --> returns false
 ```
-<br>
+  
 ## Greater Than (Greater Than or Equal)
 ``>`` or ``>=``
 ```diff
@@ -35,7 +35,7 @@ Greater Than or Equal: Checks if the number on the left side is greater than or 
 2 > 2                   --> returns false
 5 >= 6                  --> returns false
 ```
-<br>
+  
 ## Less Than (Less Than or Equal)
 ``<`` or ``<=``
 ```diff
