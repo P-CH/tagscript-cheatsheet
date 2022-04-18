@@ -1,6 +1,6 @@
 # Action Blocks
 
-Action blocks are used to, as the name implies, perform a certain pre-written action. We'll look at different types ad what they do.
+Action blocks are used to, as the name implies, perform a certain pre-written action. We'll look at different types and what they do.
 
 Note that these blocks can technically be placed anywhere in the tag, however, it is a good practise to put them either at the beginning or the end of the code.
 
