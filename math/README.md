@@ -7,8 +7,8 @@ Math blocks are obviously used for basic to intermediate math. The syntax for ea
 
 ### Operations
 ```diff
-\+          --> addition
-\-          --> subtraction
+`` + ``     --> addition
+`` - ``     --> subtraction
 *           --> multiplication
 /           --> division
 %           --> modulo
