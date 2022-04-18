@@ -7,12 +7,12 @@ Math blocks are obviously used for basic to intermediate math. The syntax for ea
 
 ### Operations
 ```diff
-`` + ``     --> addition
-`` - ``     --> subtraction
-*           --> multiplication
-/           --> division
-%           --> modulo
-^           --> exponent
+ +           --> addition
+ -           --> subtraction
+ *           --> multiplication
+ /           --> division
+ %           --> modulo
+ ^           --> exponent
 + Examples:
 {math:5+5}      --> returns 10
 {math:10%3}     --> returns 1
