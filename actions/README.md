@@ -29,6 +29,13 @@ Allows a user to run a command in a command block even though they would normall
 {override}
 ```
 
+### Mention
+```diff
+Mentions the user of the tag.
++ Usage:
+{mention}
+```
+
 ## Redirects
 
 ### DMs
